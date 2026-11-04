@@ -1,6 +1,6 @@
 # Jhanvi Arora
 
-**AI / ML Engineer in Toronto.** I build production ML and AI: real-time ranking and anomaly-detection models, multi-agent systems, document AI and the platforms under them. Most recently Lead Data Science Engineer, leading a team of four. Open to senior roles in applied AI.
+**AI / ML Engineer in Toronto.** I build production ML and AI: real-time ranking and anomaly-detection models, multi-agent systems, document AI and the platforms under them. Most recently Lead Data Science Engineer, leading a team of four.
 
 **[jhanviarora.site](https://www.jhanviarora.site)** · [LinkedIn](https://www.linkedin.com/in/jhanvia09/)
 
@@ -18,4 +18,4 @@ Python · LLM and multi-agent systems · document AI · NLP · real-time ML · d
 
 ## Find me
 
-Case studies and experience live on **[jhanviarora.site](https://www.jhanviarora.site)**. For roles in applied AI, message me on [LinkedIn](https://www.linkedin.com/in/jhanvia09/).
+Case studies and experience live on **[jhanviarora.site](https://www.jhanviarora.site)**. To get in touch, find me on [LinkedIn](https://www.linkedin.com/in/jhanvia09/).
