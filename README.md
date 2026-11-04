@@ -8,7 +8,7 @@
 
 | Project | What it does |
 | --- | --- |
-| [**ProofGraph**](https://github.com/jhanvi0905/proofgraph) | Neuro-symbolic claim verification over document packets. LLM-based information extraction (schema-constrained JSON) feeds a typed knowledge graph built with deterministic quote alignment and rule-based record linkage. Claims are resolved by entity linking with constrained decoding, then answered through hybrid retrieval (graph path walk plus a long-context read) and pairwise NLI with a second-model re-read. The deciding clause is circled on its page. Held-out: 30 contract pairs, none of the 10 real contradictions passed as supported. [Live demo](https://proofgraph-orww.onrender.com/) |
+| [**ProofGraph**](https://github.com/jhanvi0905/proofgraph) | Neuro-symbolic claim verification over document packets. LLM-based information extraction (schema-constrained JSON, with a gleaning pass for recall) feeds a typed knowledge graph built with deterministic quote alignment and rule-based record linkage. Claims are resolved by entity linking with constrained decoding, then answered through hybrid retrieval (graph path walk plus a long-context read) and pairwise NLI with a blind second-model re-check of deciding links. The deciding clause is circled on its page. Held-out: 30 contract pairs, none of the 10 real contradictions passed as supported. [Live demo](https://proofgraph-orww.onrender.com/) |
 | [**immicite**](https://github.com/jhanvi0905/immicite) | Cited answers on Canadian immigration rules. Every claim links to the exact IRPA, IRPR or IRCC clause, ranked by legal authority, and it refuses when the evidence does not support an answer. |
 
 ## Stack
