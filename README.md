@@ -2,7 +2,7 @@
 
 **AI / ML Engineer in Toronto.** I build production ML and AI: real-time ranking and anomaly-detection models, multi-agent systems, document AI and the platforms under them. Most recently Lead Data Science Engineer, leading a team of four.
 
-**[jhanviarora.site](https://www.jhanviarora.site)** · [LinkedIn](https://www.linkedin.com/in/jhanvia09/)
+**[jhanviarora.site](https://www.jhanviarora.site)** · [LinkedIn](https://www.linkedin.com/in/jhanvia09/) · [X](https://x.com/jhanviaroraa_)
 
 ## What I'm building now
 
@@ -17,4 +17,4 @@ Python · knowledge graphs · information retrieval · NLP (extraction, entity l
 
 ## Find me
 
-Case studies and experience live on **[jhanviarora.site](https://www.jhanviarora.site)**. To get in touch, find me on [LinkedIn](https://www.linkedin.com/in/jhanvia09/).
+Case studies and experience live on **[jhanviarora.site](https://www.jhanviarora.site)**. To get in touch, find me on [LinkedIn](https://www.linkedin.com/in/jhanvia09/) or [X](https://x.com/jhanviaroraa_).
